@@ -1,0 +1,9 @@
+numpy
+pandas
+pytorch-lightning
+scikit-learn
+torch
+transformers
+itranslate
+requests
+tqdm
